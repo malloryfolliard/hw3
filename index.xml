@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="file.css" rel="stylesheet"?>
+<SetList> 
+	<heading>Set List</heading>
+	<Song>
+		<SongName>Song -: September</SongName>
+		<Artist>Artist -: Earth, Wind &amp; Fire</Artist>
+		<Genre>Genre -: Disco</Genre>
+		<ReleaseDate>Release Year -: 1978</ReleaseDate>
+	</Song>
+	<Song>
+		<SongName>Song -: Come on Eileen</SongName>
+		<Artist>Artist -: Dexys Midnight Runners</Artist>
+		<Genre>Genre -: Pop</Genre>
+		<ReleaseDate>Release Year -: 1982</ReleaseDate>
+	</Song>
+	<Song>
+		<SongName>Song -: Shut Up and Dance</SongName>
+		<Artist>Artist -: Walk The Moon</Artist>
+		<Genre>Genre -: Alternative/Indie</Genre>
+		<ReleaseDate>Release Year -: 2014</ReleaseDate>
+	</Song>
+	<Song>
+		<SongName>Song -: Bohemian Rhapsody</SongName>
+		<Artist>Artist -: Queen</Artist>
+		<Genre>Genre -: Rock</Genre>
+		<ReleaseDate>Release Year -: 1975</ReleaseDate>
+	</Song>
+	<Song>
+		<SongName>Song -: Dancing Queen</SongName>
+		<Artist>Artist -: ABBA</Artist>
+		<Genre>Genre -: Pop</Genre>
+		<ReleaseDate>Release Year -: 1976</ReleaseDate>
+	</Song>
+	<Song>
+		<SongName>Song -: Don't Stop Believin</SongName>
+		<Artist>Artist -: Journey</Artist>
+		<Genre>Genre -: Rock</Genre>
+		<ReleaseDate>Release Year -: 1981</ReleaseDate>
+	</Song>
+	<Song>
+		<SongName>Song -: Wannabe</SongName>
+		<Artist>Artist -: Spice Girls</Artist>
+		<Genre>Genre -: Pop</Genre>
+		<ReleaseDate>Release Year -: 1996</ReleaseDate>
+	</Song>
+	<Song>
+		<SongName>Song -: Sweet Caroline</SongName>
+		<Artist>Artist -: Neil Diamond</Artist>
+		<Genre>Genre -: Pop</Genre>
+		<ReleaseDate>Release Year -: 1969</ReleaseDate>
+	</Song>
+	<Song>
+		<SongName>Song -: Since U Been Gone</SongName>
+		<Artist>Artist -: Kelly Clarkson</Artist>
+		<Genre>Genre -: Pop</Genre>
+		<ReleaseDate>Release Year -: 2004</ReleaseDate>
+	</Song>
+	<Song>
+		<SongName>Song -: Build Me Up Buttercup</SongName>
+		<Artist>Artist -: The Foundations</Artist>
+		<Genre>Genre -: Pop</Genre>
+		<ReleaseDate>Release Year -: 1968</ReleaseDate>
+	</Song>
+</SetList>

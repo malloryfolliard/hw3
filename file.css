@@ -1,0 +1,5 @@
+
+SetList {color: #FFFFFF; background-color: #808080; width: 100%;}
+heading {color: #FF0000; font-size: 40px; background-color: #ADD8e6;}
+SongName, Artist, Genre, ReleaseDate {display: block;}
+SongName {font-size: 25px; font-weight: bold;}
